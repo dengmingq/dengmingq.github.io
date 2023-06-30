@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 17:14:57 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homework</title>
+      <link>/posts/homework/</link>
+      <pubDate>Fri, 30 Jun 2023 17:14:57 +0800</pubDate>
+      
+      <guid>/posts/homework/</guid>
+      <description>
+        
+          
+            在完成作业过程中，首先遇到了无法配置环境变量，在深入熟读后才发现自己并没有在对应的硬盘下创造hugo文件夹。其次在第一次登陆桌面版github时，无法进入网页版浏览器GitHub，后开启加速器更换浏览器后成功进入，在实验过程中遇到了不会在已创建的博客中添加新的文章，后再求助导师的帮助下，成功创建的新的文章。 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
